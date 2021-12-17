@@ -128,7 +128,6 @@ public class MainApp {
         System.out.println("the file is located at the root directory of this repo");
     }
 
-
     // please make sure you have maven installed on your machine, and make sure the dependecies in pom.xml is downloaded
     public static void main(String[] args) throws IOException {
         System.out.println("scraper started, please wait for 1-2 minutes to write the csv file...");
